@@ -1,5 +1,5 @@
 # Task :- 01
-# A Tic Tac Toe game
+# A Tic Tac Toe Game
 
 ## Description:
 This Python program implements a two-player Tic-Tac-Toe game. The game is played on a 3x3 grid, where players take turns marking spaces with their respective symbols ('X' or 'O'). The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. If all spaces are filled without any player achieving three in a row, the game ends in a draw.
